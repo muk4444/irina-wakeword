@@ -3,7 +3,7 @@
   "wake_word": "Irina",
   "author": "droman42",
   "website": "https://github.com/locveil/wakeword-training",
-  "model": "irina.tflite",
+  "model": "https://raw.githubusercontent.com/muk4444/irina-wakeword/refs/heads/main/irina.tflite",
   "trained_languages": [
     "ru"
   ],
